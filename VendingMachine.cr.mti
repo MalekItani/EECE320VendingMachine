@@ -1,0 +1,17 @@
+/home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd {1 {vcom -work work -2002 -explicit /home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity itemToPrice
+-- Compiling architecture archItemToPrice of ItemToPrice
+
+} {} {}} /home/malek/projects/VHDL/VendingMachine/itemToPrice_tb.vhd {1 {vcom -work work -2002 -explicit /home/malek/projects/VHDL/VendingMachine/itemToPrice_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity itemToPriceDummy
+-- Compiling architecture itemToPriceDummyArch of itemToPriceDummy
+
+} {} {}}
