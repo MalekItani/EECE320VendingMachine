@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+d/home/malek/projects/VHDL/1MyALU
+Eitemtoprice
+Z0 w1532116760
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/malek/projects/VHDL/VendingMachine
+Z4 8/home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd
+Z5 F/home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd
+l0
+L3
+VGVbljfeOmiKTl8b8>jSE<3
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1532116798.035947
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd|
+Z9 !s107 /home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 ;o7=2PGeBhZ@BTb_`B>a21
+!i10b 1
+Aarchitemtoprice
+R1
+R2
+DEx4 work 11 itemtoprice 0 22 GVbljfeOmiKTl8b8>jSE<3
+l11
+L10
+Vj?MW@O7>oDELRkj83k>Po2
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 LZaOL^[P5n<YUE2T;7Q`J1
+!i10b 1
+Eitemtopricedummy
+Z12 w1532116794
+R1
+R2
+R3
+Z13 8/home/malek/projects/VHDL/VendingMachine/itemToPrice_tb.vhd
+Z14 F/home/malek/projects/VHDL/VendingMachine/itemToPrice_tb.vhd
+l0
+L5
+VH^FToS[AVe>OI4AjFo<Y31
+!s100 VWPJelKU?B2T>=G0A<KXQ2
+R6
+32
+!i10b 1
+Z15 !s108 1532116798.065510
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/malek/projects/VHDL/VendingMachine/itemToPrice_tb.vhd|
+Z17 !s107 /home/malek/projects/VHDL/VendingMachine/itemToPrice_tb.vhd|
+R10
+R11
+Aitemtopricedummyarch
+R1
+R2
+Z18 DEx4 work 16 itemtopricedummy 0 22 H^FToS[AVe>OI4AjFo<Y31
+l18
+L8
+V2ag`9J8Tlm4dV95^:ge^[0
+!s100 ]0XmeLaKUnEG6QQmFhA`f2
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11

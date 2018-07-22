@@ -1,0 +1,94 @@
+# Loading project VendingMachine
+vsim work.itemtopricedummy
+# vsim work.itemtopricedummy 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.itemtopricedummy(itemtopricedummyarch)
+# Loading work.itemtoprice(architemtoprice)
+add wave -position insertpoint sim:/itemtopricedummy/U0/*
+run 50 ns
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 5 (4 downto 0). Right is 4 (4 downto 1).
+#    Time: 0 ps  Iteration: 0  Process: /itemtopricedummy/U0/line__13 File: /home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd
+# Fatal error in Architecture archItemToPrice at /home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd line 14
+# 
+# HDL call sequence:
+# Stopped at /home/malek/projects/VHDL/VendingMachine/itemToPrice.vhd 14 Architecture archItemToPrice
+# 
+quit -sim
+# Compile of itemToPrice.vhd was successful.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.itemtopricedummy
+# vsim work.itemtopricedummy 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.itemtopricedummy(itemtopricedummyarch)
+# Loading work.itemtoprice(architemtoprice)
+add wave -position insertpoint sim:/itemtopricedummy/U0/*
+run 50 ns
+quit -sim
+# Compile of itemToPrice.vhd was successful.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Load canceled
+# Compile of itemToPrice.vhd was successful.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.itemtopricedummy
+# vsim work.itemtopricedummy 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.itemtopricedummy(itemtopricedummyarch)
+# Loading work.itemtoprice(architemtoprice)
+add wave -position insertpoint sim:/itemtopricedummy/U0/*
+run 50 ns
+quit -sim
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+quit -sim
+quit -sim
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice_tb.vhd was successful.
+# Compile of itemToPrice.vhd failed with 1 errors.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of itemToPrice.vhd was successful.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of itemToPrice.vhd was successful.
+# Compile of itemToPrice_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.itemtopricedummy
+# vsim work.itemtopricedummy 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.itemtopricedummy(itemtopricedummyarch)
+# Loading work.itemtoprice(architemtoprice)
+add wave -position insertpoint sim:/itemtopricedummy/U0/*
+run 60 ns
+quit
